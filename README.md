@@ -268,10 +268,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📞 Contact
-
-Project Link: [https://github.com/yourusername/data-analysis-pipeline](https://github.com/yourusername/data-analysis-pipeline)
-
 ---
 
 *This data analysis pipeline was created as part of a professional portfolio project demonstrating advanced Python and data analysis skills.*
